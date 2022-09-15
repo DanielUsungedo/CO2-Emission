@@ -3,7 +3,7 @@
  ### [CO2 EMISSION VISUALIZATION](https://app.powerbi.com/view?r=eyJrIjoiNjBkYTI4NmQtNzQ1NC00OTBmLTlkOWItYjE0NDYyODZjMzkyIiwidCI6ImVjNGUyZDg4LTI3ODgtNGQ5Yi1hMjE0LTcyZGRhZDU4OGVkNyJ9)
 
 <h2>Description</h2>
-The visualization explores CO2 emissions data from 194 countries from 1990 to 2019. CO2 emissions are constantly terrorizing the Earth, and the consequences, such as rising global temperatures, are massively destructive. Hence my interest in this analysis. 
+The visualization explores CO2 emission data from 194 countries from 1990 to 2019. CO2 emissions are constantly terrorizing the Earth, and the consequences, such as rising global temperatures, are massively destructive. Hence my interest in this analysis. 
 I began by cleaning up the data by removing countries with no values. I needed to know which countries have increased their CO2 emission rate over time, which countries have decreased their CO2 emission rate over time, and the growth trend or rate of these emissions over time.
 This was accomplished by grouping the years into sets of five years ((1990-1994), (1995-1999), etc.) and then grouping them by various regions (e.g subsaharan Africa). This made the visualization more efficient and concise.
 <br />
